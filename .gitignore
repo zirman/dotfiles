@@ -4,6 +4,5 @@
 !.gitignore
 !.gitconfig
 !.emacs
-!.bashrc
 !.tmux.conf
-!.Xresources
+!.bash_profile
